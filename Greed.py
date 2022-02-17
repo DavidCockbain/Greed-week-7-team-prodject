@@ -1,1 +1,2 @@
 print("Greed")
+print('test')
